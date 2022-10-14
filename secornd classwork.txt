@@ -1,0 +1,16 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    
+	  int x = 250  ;
+	    
+	  int y = 160 ;
+	  
+	  if (x > 160) {System.out.println("Hello World");
+	      
+	  }  
+	    
+		
+	}
+}
